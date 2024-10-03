@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pdm
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+wheels/
+*.egg-info
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+.env
+env/
+ENV/
+.venv/
+.venv
+*.env
+
+# FastAPI logs and runtime files
+logs/
+*.log
+*.out
+*.err
+run/
+
+# Pytest cache
+.pytest_cache/
+
+# SQLite database file
+*.sqlite3
+
+# Pydantic auto-generated files
+*.schema.json
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Static files
+*.lock
+*.cache
+
+# Local environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# Miscellaneous
+.DS_Store
+
